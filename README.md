@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jen</h1>
-<h3 align="center">A passionate full stack (preference for frontend) developer from California</h3>
+<h1>Hi 👋, I'm Jen</h1>
+<h3>A passionate full stack (preference for frontend) developer from California</h3>
 
-<h4 align="center">📫 How to reach me **jenhto408@gmail.com**</h4>
+<h4>📫 How to reach me **jenhto408@gmail.com**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
