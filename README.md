@@ -3,11 +3,6 @@
 
 <h3 align="left">📫 How to reach me: <a href="mailto:jenhto408@gmail.com">jenhto408@gmail.com</a></h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jenhuynhto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jenhuynhto" height="30" width="40" /></a>
-</p>
-
 <br></br>
 
 <table>
