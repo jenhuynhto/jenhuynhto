@@ -3,8 +3,6 @@
 
 <h3 align="left">📫 How to reach me: <a href="mailto:jenhto408@gmail.com">jenhto408@gmail.com</a></h3>
 
-<br></br>
-
 <table>
 <tr> <td>
 <h3 align="left">Languages:</h3>
