@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Jen! 🌸</h1>
-<h3 align="left">A passionate full stack developer from San Jose, California (:</h3>
+<h3 align="left">A passionate full stack developer from California (:</h3>
 
 <h3 align="left">📫 How to reach me: <a href="mailto:jenhto408@gmail.com">jenhto408@gmail.com</a></h3>
 
